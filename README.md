@@ -1,3 +1,31 @@
+# Delivery client
+
+## School project in Javascript subject
+
+# Backend is from Distributed systems and ASP.NET subject project
+## Backend git link: https://github.com/kossar/delivery
+
+## This is main client for this backend, not 100% ready, main functionality is ready
+
+## Framework: React
+
+Description:
+
+# FINAL
+
+Implement client for your distributed course backend (including i18n support  - if you also participate in ASP.NET Web apps course).  
+
+If you are not participating in Distributed course - write/finalize single page client for  
+https://taltech.akaver.com/swagger/index.html  
+https://gitlab.akaver.com/akaver/com.akaver.taltech  
+
+Main flow on single page, not plain crud controllers. Implement filtering, searching, etc. Make it look nice!  
+
+JS Frontend framework choice is free - Vue, Aurelia, Angular, React, etc...
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
